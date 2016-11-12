@@ -1,0 +1,2 @@
+log_level: DEBUG
+iam_role_to_assume:
